@@ -7,9 +7,9 @@ if (number) {
 array.summa= total
 array.kolvo = array.length
 }
+average = shuffled.summa / shuffled.kolvo
 return false   
 });
-average = shuffled.summa / shuffled.kolvo
 
 console.log(total);
 console.log(average);
